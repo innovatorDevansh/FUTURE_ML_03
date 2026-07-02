@@ -1,0 +1,26 @@
+Job Title: Python Developer
+
+We are looking for an experienced Python Developer to build scalable web applications and backend services.
+
+Required Skills
+
+Python
+Django
+Flask
+FastAPI
+SQL
+PostgreSQL
+REST API
+Git
+Docker
+AWS
+Linux
+
+Preferred Skills
+
+Machine Learning
+Pandas
+NumPy
+Communication
+Teamwork
+Problem Solving

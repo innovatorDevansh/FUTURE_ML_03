@@ -1,0 +1,301 @@
+category,skill
+Programming,python
+Programming,java
+Programming,c
+Programming,c++
+Programming,c#
+Programming,javascript
+Programming,typescript
+Programming,go
+Programming,golang
+Programming,rust
+Programming,php
+Programming,ruby
+Programming,scala
+Programming,swift
+Programming,kotlin
+Programming,r
+Programming,matlab
+Programming,perl
+Programming,dart
+Programming,objective c
+Programming,vb.net
+Database,sql
+Database,pl sql
+Database,t sql
+Database,mysql
+Database,postgresql
+Database,mongodb
+Database,sqlite
+Database,oracle
+Database,sql server
+Database,redis
+Database,cassandra
+Database,couchdb
+Database,firebase
+Database,dynamodb
+Database,neo4j
+Database,snowflake
+Database,db2
+Data Engineering,hadoop
+Data Engineering,spark
+Data Engineering,pyspark
+Data Engineering,hive
+Data Engineering,hbase
+Data Engineering,kafka
+Data Engineering,airflow
+Data Engineering,databricks
+Data Engineering,etl
+Data Engineering,elt
+Data Engineering,data warehouse
+Data Engineering,data modeling
+Data Engineering,data mining
+Analytics,data analysis
+Analytics,data visualization
+Analytics,business intelligence
+Analytics,excel
+Analytics,power bi
+Analytics,tableau
+Analytics,qlikview
+Analytics,qlik sense
+Analytics,looker
+Data Science,pandas
+Data Science,numpy
+Data Science,scipy
+Data Science,matplotlib
+Data Science,plotly
+Data Science,seaborn
+Data Science,scikit learn
+AI,machine learning
+AI,deep learning
+AI,artificial intelligence
+AI,generative ai
+AI,nlp
+AI,computer vision
+AI,opencv
+AI,tensorflow
+AI,keras
+AI,pytorch
+AI,xgboost
+AI,lightgbm
+AI,catboost
+AI,statsmodels
+AI,transformers
+AI,hugging face
+AI,langchain
+AI,llamaindex
+AI,openai
+AI,azure openai
+AI,prompt engineering
+AI,rag
+AI,vector database
+AI,pinecone
+AI,chromadb
+AI,faiss
+Python Framework,flask
+Python Framework,django
+Python Framework,fastapi
+Java Framework,spring
+Java Framework,spring boot
+Java Framework,hibernate
+.NET,asp.net
+.NET,asp.net core
+.NET,entity framework
+Frontend,react
+Frontend,nextjs
+Frontend,angular
+Frontend,vue
+Frontend,nuxt
+Frontend,html
+Frontend,html5
+Frontend,css
+Frontend,css3
+Frontend,bootstrap
+Frontend,tailwind css
+Frontend,sass
+Frontend,jquery
+Frontend,webpack
+Frontend,vite
+Backend,nodejs
+Backend,node.js
+Backend,express
+Backend,nestjs
+Backend,graphql
+Backend,rest api
+Backend,soap
+Backend,json
+Backend,xml
+Backend,microservices
+Backend,jwt
+Backend,oauth
+Cloud,aws
+Cloud,amazon web services
+Cloud,azure
+Cloud,microsoft azure
+Cloud,gcp
+Cloud,google cloud
+Cloud,digitalocean
+DevOps,docker
+DevOps,kubernetes
+DevOps,helm
+DevOps,terraform
+DevOps,ansible
+DevOps,jenkins
+DevOps,github actions
+DevOps,gitlab ci
+DevOps,azure devops
+DevOps,circleci
+DevOps,travis ci
+Operating System,linux
+Operating System,ubuntu
+Operating System,windows server
+Operating System,unix
+Operating System,bash
+Operating System,shell scripting
+Operating System,powershell
+Web Server,nginx
+Web Server,apache
+Version Control,git
+Version Control,github
+Version Control,bitbucket
+Version Control,svn
+Project Management,jira
+Project Management,confluence
+Project Management,agile
+Project Management,scrum
+Project Management,kanban
+Project Management,waterfall
+Project Management,devops
+Project Management,ci cd
+Testing,selenium
+Testing,playwright
+Testing,cypress
+Testing,postman
+Testing,junit
+Testing,testng
+Testing,pytest
+Testing,robot framework
+Testing,appium
+Testing,cucumber
+Testing,jmeter
+Testing,load testing
+Testing,performance testing
+Testing,manual testing
+Testing,automation testing
+Testing,api testing
+Testing,unit testing
+Testing,integration testing
+RPA,uipath
+RPA,automation anywhere
+RPA,blue prism
+RPA,power automate
+RPA,power apps
+RPA,power virtual agents
+Workflow,camunda
+ERP,sap
+ERP,salesforce
+ERP,servicenow
+ERP,oracle erp
+ERP,dynamics 365
+ERP,crm
+ERP,erp
+CMS,wordpress
+CMS,shopify
+CMS,woocommerce
+CMS,magento
+Design,figma
+Design,adobe xd
+Design,photoshop
+Design,illustrator
+Design,canva
+Design,ui design
+Design,ux design
+Design,wireframing
+Design,prototyping
+Design,responsive design
+Mobile,android
+Mobile,ios
+Mobile,flutter
+Mobile,react native
+Mobile,xamarin
+Game Development,unity
+Game Development,unreal engine
+Blockchain,blockchain
+Blockchain,ethereum
+Blockchain,solidity
+Blockchain,web3
+Cyber Security,cybersecurity
+Cyber Security,network security
+Cyber Security,penetration testing
+Cyber Security,ethical hacking
+Cyber Security,cryptography
+Cyber Security,firewall
+Cyber Security,vpn
+Networking,tcp ip
+Networking,dns
+Networking,dhcp
+Networking,routing
+Networking,switching
+Networking,active directory
+Business,business analysis
+Business,requirement gathering
+Business,documentation
+Business,research
+Business,stakeholder management
+Business,risk management
+Business,budget management
+Business,sales
+Business,marketing
+Business,digital marketing
+Business,seo
+Business,sem
+Business,content writing
+Business,copywriting
+Business,social media marketing
+Business,email marketing
+Business,google analytics
+Business,project planning
+Business,forecasting
+Finance,accounting
+Finance,finance
+Finance,bookkeeping
+Finance,taxation
+Finance,gst
+Finance,tally
+Finance,quickbooks
+Finance,payroll
+Finance,auditing
+Finance,inventory management
+Finance,supply chain
+Finance,procurement
+HR,human resources
+HR,recruitment
+HR,talent acquisition
+HR,employee engagement
+HR,training
+HR,onboarding
+Soft Skills,communication
+Soft Skills,verbal communication
+Soft Skills,written communication
+Soft Skills,presentation skills
+Soft Skills,leadership
+Soft Skills,teamwork
+Soft Skills,collaboration
+Soft Skills,problem solving
+Soft Skills,critical thinking
+Soft Skills,analytical thinking
+Soft Skills,decision making
+Soft Skills,creativity
+Soft Skills,time management
+Soft Skills,project management
+Soft Skills,people management
+Soft Skills,negotiation
+Soft Skills,customer service
+Soft Skills,client management
+Soft Skills,mentoring
+Soft Skills,adaptability
+Soft Skills,multitasking
+Soft Skills,conflict resolution
+,
+,
+,
